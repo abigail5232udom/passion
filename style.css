@@ -83,13 +83,13 @@ a:hover{
 }
 .bottom-cloud {
     position: absolute;
-    left: 250px;
+    left: 150px;
     bottom: 375px;
     mix-blend-mode: color-burn;
 }
 .mountain-img {
     mix-blend-mode: darken;
-    width: 50%;
+    width: 25%;
 }
 .profile-picture {
     border-radius: 250%;
